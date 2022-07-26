@@ -1,0 +1,118 @@
+
+ h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: yellowgreen;
+    text-align: center;
+    
+ }
+
+ h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #4CAF50;
+    text-align: center;
+    text-decoration:double;
+ }
+
+ h3 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: dodgerblue;
+ }
+ 
+ 
+ .frame {
+    
+        width: 50px;
+        height: 50px;
+        background-image: url('bl.jpg');
+        display: inline-block;
+    }
+    .coin {
+        width: 50px;
+        height: 50px;
+        background-image: url('coin1.jpg');
+        display: inline-block;
+    }
+    .black {
+        width: 50px;
+        height: 50px;
+        background-image: url('black.png');
+        display: inline-block;
+    }
+    .ghost {
+        width: 50px;
+        height: 50px;
+        background-image: url('ghost.png');
+        display: inline-block;
+    }
+    .pacman {
+        width: 50px;
+        height: 50px;
+        background-image: url('pac-man1.jpg');
+        display: inline-block;
+    }
+    .candy{ 
+        width: 50px;
+        height: 50px;
+        background-image: url('canddy.jpg');
+        display: inline-block;
+    }
+
+    .smiley {
+        width: 50px;
+        height: 50px;
+        background-image: url('smiley.jpg');
+        display: inline-block; 
+    }
+    .sad {
+        width: 50px;
+        height: 50px;
+        background-image: url('sad.jpg');
+        display: inline-block; 
+    }
+       
+
+    div {
+        line-height: 0px;
+    }
+    .button {
+        border: none;
+        color: white;
+        padding: 36px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+      }
+      
+      .b1 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #4CAF50;
+        padding: 16px 16px;
+        
+      }
+      
+      .b1:hover {
+        background-color: #4CAF50;
+        color: white;
+      }
+      
+      .b2 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #008CBA;
+        padding: 16px 16px;
+      }
+      
+      .b2:hover {
+        background-color: #008CBA;
+        color: white;
+      }
+      
+      
+   
+
